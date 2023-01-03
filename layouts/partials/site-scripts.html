@@ -6,12 +6,12 @@
 {{ end }}
 {{ with $scripts }}
   {{ if  $isDev }}
-  <script type="text/javascript" src="{{ .RelPermalink }}" crossorigin="anonymous" defer></script>
+  <script type="text/javascript" src="{{ .RelPermalink }}" ></script>
   {{ else }}
-  <script type="text/javascript" src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" defer></script>
+  <script type="text/javascript" src="{{ .RelPermalink }}"></script>
   {{ end }}
-  {{ $.Scratch.Set "scripts" . }}    
-{{end}} 
+  {{ $.Scratch.Set "scripts" . }}
+{{end}}
 
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>

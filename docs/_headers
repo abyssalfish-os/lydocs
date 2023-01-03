@@ -4,5 +4,5 @@
   X-Content-Type-Options: nosniff
   Referrer-Policy: origin-when-cross-origin
 /*
-  Link: </dist/app.bundle.js>; rel=preload; as=script
-  Link: </dist/main.css>; rel=preload; as=style
+  Link: </lydocs/dist/app.bundle.js>; rel=preload; as=script
+  Link: </lydocs/dist/main.css>; rel=preload; as=style

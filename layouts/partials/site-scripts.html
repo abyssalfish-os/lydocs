@@ -8,7 +8,7 @@
   {{ if  $isDev }}
   <script type="text/javascript" src="{{ .RelPermalink }}" crossorigin="anonymous" defer></script>
   {{ else }}
-  <script type="text/javascript" src="{{ .RelPermalink }}" integrity="{{ .Data.Integrity }}" crossorigin="anonymous" defer></script>
+  <script type="text/javascript" src="{{ .RelPermalink }}" crossorigin="anonymous" defer></script>
   {{ end }}
   {{ $.Scratch.Set "scripts" . }}
 {{end}}

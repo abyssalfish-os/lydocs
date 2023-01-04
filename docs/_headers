@@ -1,8 +1,0 @@
-/*
-  X-Frame-Options: DENY
-  X-XSS-Protection: 1; mode=block
-  X-Content-Type-Options: nosniff
-  Referrer-Policy: origin-when-cross-origin
-/*
-  Link: </lydocs/dist/app.bundle.js>; rel=preload; as=script
-  Link: </lydocs/dist/main.css>; rel=preload; as=style

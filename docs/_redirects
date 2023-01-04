@@ -1,0 +1,31 @@
+# Netlify redirects. See https://www.netlify.com/docs/redirects/
+
+/tutorials/how-to-contribute/      	/lydocs/contribute/
+/community/contributing/           	/lydocs/contribute/
+/about-liuying/                    	/lydocs/about/
+/docs/                             	/lydocs/about/
+/content/manual                    	/lydocs/user-manual/
+/content/usage                     	/lydocs/user-manual/
+/overview/introduction/            	/lydocs/getting-started/
+/overview/introduction/            	/lydocs/about/what-is-liuying/
+/about/why-liuying/                	/lydocs/about/what-is-liuying/
+/quickstart/                       	/lydocs/getting-started/quick-start/
+/overview/quickstart/              	/lydocs/getting-started/quick-start/
+/content/user-login/               	/lydocs/user-manual/login/
+/contribute/docs/                  	/lydocs/contribute/documentation/
+/overview/usage/                   	/lydocs/getting-started/usage/
+/extras/livereload/                	/lydocs/getting-started/usage/
+/doc/usage/                        	/lydocs/getting-started/usage/
+/usage/                            	/lydocs/getting-started/usage/
+/overview/deploy/                  	/lydocs/getting-started/deploy-required/
+/meta/license                      	/lydocs/about/license/
+/content/usage/peizhi/             	/lydocs/user-manual/peizhi/
+/content/usage/zhuizong/           	/lydocs/user-manual/zhuizong/
+/content/usage/yanpan/             	/lydocs/user-manual/yanpan/
+/content/basic-setting/            	/lydocs/user-manual/basic-setting/
+/content/usage/shijian/            	/lydocs/user-manual/shijian/
+/content/usage/zonglan             	/lydocs/user-manual/zonglan/
+/demo/                             	/lydocs/demo/
+/overview/demo/                    	/lydocs/demo/
+/getting-started/installing/       	/lydocs/installation/
+/release-notes/                    	/lydocs/news/
